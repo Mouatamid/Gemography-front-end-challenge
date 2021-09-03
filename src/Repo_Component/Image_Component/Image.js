@@ -4,7 +4,7 @@ import "./Image.css";
 class Image extends Component{
     render(){
         return(
-            <h3>Image</h3>
+            <img src="https://avatars.githubusercontent.com/u/6255580?v=4"/>
         )
     }
 }
