@@ -16,6 +16,8 @@ class Repo extends Component {
           repoDesc={this.props.data.description}
           nbStars={this.props.data.stargazers_count}
           nbIssues={this.props.data.open_issues_count}
+          authorName={this.props.data.name}
+          creationDate={this.props.data.created_at}
         />
       </div>
     );
