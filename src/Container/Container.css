@@ -1,8 +1,32 @@
-h3.loading{
-    display: block;
-    text-align: center;
-    font-size: 24px;
-    margin: auto;
-    width: 100%;
-    margin-top: 150px;
+h3.loading {
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  margin: auto;
+  width: 100%;
+  margin-top: 150px;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  font-size: 20px;
+  margin-left: 25px;
+  padding: 0.5em;
+  cursor: pointer;
+}
+
+.backButton {
+  border: 2px solid #001f61;
+  background-color: #fff;
+}
+.nextButton {
+  background-color: rgb(0, 204, 231);
+  color: #fff;
+  font-weight: bold;
+  border: 2px solid rgb(0, 204, 231);;
 }
