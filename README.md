@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Gemography front-end challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app list the most starred Github repos in the last 30 days.
 
-## Available Scripts
+It was developed with the JavaScript framework <b>React JS</b>. 
+The choice of this library was empowered by the strength of React js, that is <i>Simplicity</i> and <i>Speed</i>. And also, I am more used to and have past experiences with this framework.
 
-In the project directory, you can run:
+This is the important scripts to run the application, notice that after cloning the project:
+- you need to install some dependencies by running `npm install`
+- Keep in mind the the API used in the app has a limit of usage per day.
 
 ### `npm start`
 
